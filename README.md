@@ -25,6 +25,8 @@ Ensemble-learning/                         # Thư mục gốc của project
 │       ├── .gitkeep                       # Giữ thư mục nguồn kể cả khi chưa có CSV
 │       └── wdbc.csv                       # Dataset Breast Cancer Wisconsin tải từ UCI
 ├── docs/                                  # Tài liệu trình bày project
+│   ├── GOI_B_QUY_TRINH_VA_VI_DU_TINH_TOAN.md # Chuyên đề quy trình thuật toán & tính toán số học AdaBoost
+│   ├── KE_HOACH_VA_PHAN_CONG.md           # Kế hoạch thực hiện 7 ngày & phân công vai trò nhóm
 │   ├── reports/                           # Báo cáo dạng có thể chỉnh sửa và bản xuất PDF
 │   │   ├── MSSV1_MSSV2_MSSV3.docx         # Báo cáo project dạng Word
 │   │   └── MSSV1_MSSV2_MSSV3.pdf          # Bản PDF của báo cáo project
@@ -33,7 +35,8 @@ Ensemble-learning/                         # Thư mục gốc của project
 │       └── presentation.pptx              # Slide PowerPoint có thể chỉnh sửa
 ├── notebooks/                             # Notebook trình bày và chạy thí nghiệm
 │   ├── 01_step_by_step_example.ipynb      # Ví dụ từng bước: dữ liệu, baseline, hard voting
-│   └── 02_application_experiments.ipynb   # Chạy pipeline và xem bảng/biểu đồ kết quả
+│   ├── 02_application_experiments.ipynb   # Chạy pipeline và xem bảng/biểu đồ kết quả
+│   └── 03_adaboost_toy_calculation.ipynb  # Tính toán số học AdaBoost từng bước và trực quan hóa trọng số (Gói B)
 ├── results/                               # Số liệu và sản phẩm sinh ra từ thực nghiệm
 │   ├── figures/                           # Các hình trực quan hóa kết quả
 │   │   ├── .gitkeep                       # Giữ thư mục hình khi chưa có ảnh kết quả
