@@ -25,7 +25,9 @@ Ensemble-learning/                         # Thư mục gốc của project
 │       ├── .gitkeep                       # Giữ thư mục nguồn kể cả khi chưa có CSV
 │       └── wdbc.csv                       # Dataset Breast Cancer Wisconsin tải từ UCI
 ├── docs/                                  # Tài liệu trình bày project
-│   ├── GOI_B_QUY_TRINH_VA_VI_DU_TINH_TOAN.md # Chuyên đề quy trình thuật toán & tính toán số học AdaBoost
+│   ├── GOI_A_KHAI_NIEM.md                 # Tài liệu Gói A: Cơ sở lý thuyết Ensemble, Condorcet, Bias-Variance
+│   ├── GOI_B_QUY_TRINH_THUAT_TOAN.md      # Tài liệu Gói B: Quy trình thuật toán AdaBoost & tính toán số học chuẩn template
+│   ├── GOI_B_QUY_TRINH_VA_VI_DU_TINH_TOAN.md # Chuyên đề chi tiết quy trình thuật toán & tính toán số học AdaBoost
 │   ├── KE_HOACH_VA_PHAN_CONG.md           # Kế hoạch thực hiện 7 ngày & phân công vai trò nhóm
 │   ├── reports/                           # Báo cáo dạng có thể chỉnh sửa và bản xuất PDF
 │   │   ├── MSSV1_MSSV2_MSSV3.docx         # Báo cáo project dạng Word
