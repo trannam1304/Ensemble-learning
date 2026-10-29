@@ -1,16 +1,16 @@
 feature,importance,model
-perimeter3,0.14110699,Random Forest
-area3,0.13936040,Random Forest
-concave_points1,0.10471651,Random Forest
-concave_points3,0.09734696,Random Forest
-radius3,0.07759900,Random Forest
-concavity1,0.06143713,Random Forest
-radius1,0.05522058,Random Forest
-perimeter1,0.04520956,Random Forest
-concavity3,0.03892494,Random Forest
-area1,0.03842024,Random Forest
-area2,0.02543209,Random Forest
-compactness1,0.01918119,Random Forest
+perimeter3,0.14345163,Random Forest
+area3,0.14075635,Random Forest
+concave_points3,0.10460196,Random Forest
+concave_points1,0.09963838,Random Forest
+radius3,0.07498972,Random Forest
+radius1,0.05657737,Random Forest
+perimeter1,0.05140891,Random Forest
+concavity1,0.04821613,Random Forest
+concavity3,0.03905145,Random Forest
+area1,0.03833683,Random Forest
+area2,0.02949327,Random Forest
+texture3,0.01835998,Random Forest
 perimeter3,0.14032282,AdaBoost
 texture3,0.09963444,AdaBoost
 concave_points3,0.09936133,AdaBoost
